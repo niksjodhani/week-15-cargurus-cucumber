@@ -1,0 +1,526 @@
+2022-05-18 14:05:431 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 14:05:238 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 14:05:77 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 14:05:895 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 14:05:764 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:173 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:157 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:746 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:855 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:746 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:157 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:895 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 18:05:576 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 18:05:907 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 18:05:862 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 18:05:384 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 18:05:570 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 18:05:31 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 20:05:926 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 20:05:564 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 20:05:119 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 20:05:310 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 20:05:295 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 20:05:321 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:156 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:566 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:793 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:751 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:352 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:138 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:443 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:927 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:567 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:54 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:352 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:754 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:705 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:408 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:993 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:418 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:255 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:709 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:841 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:915 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (cf5d4a0e0fdee671df97ec50bf0d9f15)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:112 INFO  HomePage :38 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (cf5d4a0e0fdee671df97ec50bf0d9f15)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 21:05:302 INFO  NewAndUsedCarSearchPage :49 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 21:05:331 INFO  NewAndUsedCarSearchPage :54 - select make ' Land Rover ' <br>
+2022-05-18 21:05:614 INFO  NewAndUsedCarSearchPage :59 -  select model ' Range Rover Sport ' <br>
+2022-05-18 21:05:911 INFO  NewAndUsedCarSearchPage :64 - select location ' QLD - Brisbane ' <br>
+2022-05-18 21:05:172 INFO  NewAndUsedCarSearchPage :69 - select price ' $100,000 ' <br>
+2022-05-18 21:05:544 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:449 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 11 Land Rover Range Rover Sports for Sale under $100,000 in Brisbane, QLD
+2022-05-18 21:05:133 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:466 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (3ca9608621f4373d99cdc020cb0b99d2)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:747 INFO  HomePage :38 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (3ca9608621f4373d99cdc020cb0b99d2)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 21:05:605 INFO  NewAndUsedCarSearchPage :49 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 21:05:643 INFO  NewAndUsedCarSearchPage :54 - select make ' Kia ' <br>
+2022-05-18 21:05:929 INFO  NewAndUsedCarSearchPage :59 -  select model ' Picanto ' <br>
+2022-05-18 21:05:206 INFO  NewAndUsedCarSearchPage :64 - select location ' NSW - Sydney ' <br>
+2022-05-18 21:05:478 INFO  NewAndUsedCarSearchPage :69 - select price ' $90,000 ' <br>
+2022-05-18 21:05:850 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:353 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:66 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (9469ad135cba06009ac3543a8d03ec46)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:632 INFO  HomePage :38 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (9469ad135cba06009ac3543a8d03ec46)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 21:05:115 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:329 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (0425075d3e9b55af7fcd42f7fbcdd04a)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:753 INFO  HomePage :38 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (0425075d3e9b55af7fcd42f7fbcdd04a)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 21:05:984 INFO  NewAndUsedCarSearchPage :49 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 21:05:03 INFO  NewAndUsedCarSearchPage :54 - select make ' Ford ' <br>
+2022-05-18 21:05:256 INFO  NewAndUsedCarSearchPage :59 -  select model ' Focus ' <br>
+2022-05-18 21:05:635 INFO  NewAndUsedCarSearchPage :64 - select location ' NSW - New England ' <br>
+2022-05-18 21:05:864 INFO  NewAndUsedCarSearchPage :69 - select price ' $70,000 ' <br>
+2022-05-18 21:05:220 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:68 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 24 Ford Focus for Sale under $70,000 in New England, NSW
+2022-05-18 21:05:653 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:421 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (9890c5df2fac2ea95edeb87b76793f73)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:749 INFO  HomePage :38 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (9890c5df2fac2ea95edeb87b76793f73)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 21:05:619 INFO  NewAndUsedCarSearchPage :49 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 21:05:676 INFO  NewAndUsedCarSearchPage :54 - select make ' Hyundai ' <br>
+2022-05-18 21:05:431 INFO  NewAndUsedCarSearchPage :59 -  select model ' Elantra ' <br>
+2022-05-18 21:05:949 INFO  NewAndUsedCarSearchPage :64 - select location ' NT - North ' <br>
+2022-05-18 21:05:184 INFO  NewAndUsedCarSearchPage :69 - select price ' $80,000 ' <br>
+2022-05-18 21:05:540 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:370 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 1 Hyundai Elantra for Sale under $80,000 in North, NT
+2022-05-18 21:05:949 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:916 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (5150c6cb797f146b068fd3eb77f3ec2d)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:658 INFO  HomePage :38 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (5150c6cb797f146b068fd3eb77f3ec2d)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 21:05:778 INFO  NewAndUsedCarSearchPage :49 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 21:05:836 INFO  NewAndUsedCarSearchPage :54 - select make ' Honda ' <br>
+2022-05-18 21:05:72 INFO  NewAndUsedCarSearchPage :59 -  select model ' City ' <br>
+2022-05-18 21:05:440 INFO  NewAndUsedCarSearchPage :64 - select location ' NSW - Central Coast ' <br>
+2022-05-18 21:05:689 INFO  NewAndUsedCarSearchPage :69 - select price ' $90,000 ' <br>
+2022-05-18 21:05:990 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:570 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 1 Honda City for Sale under $90,000 in Central Coast, NSW
+2022-05-18 21:05:105 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:884 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (4f3fb78debb975e0692deb9d7848e2c9)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:187 INFO  HomePage :43 - clicking on used link [[ChromeDriver: chrome on WINDOWS (4f3fb78debb975e0692deb9d7848e2c9)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 21:05:469 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 21:05:504 INFO  NewAndUsedCarSearchPage :54 - select make ' Jeep ' <br>
+2022-05-18 21:05:801 INFO  NewAndUsedCarSearchPage :59 -  select model ' Compass ' <br>
+2022-05-18 21:05:80 INFO  NewAndUsedCarSearchPage :64 - select location ' NSW - New England ' <br>
+2022-05-18 21:05:336 INFO  NewAndUsedCarSearchPage :69 - select price ' $80,000 ' <br>
+2022-05-18 21:05:640 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:151 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:156 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (31ead2e009b849478c4371853e411977)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:648 INFO  HomePage :43 - clicking on used link [[ChromeDriver: chrome on WINDOWS (31ead2e009b849478c4371853e411977)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 21:05:22 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 21:05:157 INFO  NewAndUsedCarSearchPage :54 - select make ' BMW ' <br>
+2022-05-18 21:05:716 INFO  NewAndUsedCarSearchPage :59 -  select model ' Any Model ' <br>
+2022-05-18 21:05:953 INFO  NewAndUsedCarSearchPage :64 - select location ' NSW - All ' <br>
+2022-05-18 21:05:136 INFO  NewAndUsedCarSearchPage :69 - select price ' $100,000 ' <br>
+2022-05-18 21:05:436 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:94 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 499 Used BMWs for Sale under $100,000 in NSW
+2022-05-18 21:05:750 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:860 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (4ecb4cc6c5bbb194a11625632a2cd21e)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:562 INFO  HomePage :43 - clicking on used link [[ChromeDriver: chrome on WINDOWS (4ecb4cc6c5bbb194a11625632a2cd21e)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 21:05:306 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 21:05:346 INFO  NewAndUsedCarSearchPage :54 - select make ' Volkswagen ' <br>
+2022-05-18 21:05:626 INFO  NewAndUsedCarSearchPage :59 -  select model ' Tiguan ' <br>
+2022-05-18 21:05:897 INFO  NewAndUsedCarSearchPage :64 - select location ' ACT - All ' <br>
+2022-05-18 21:05:152 INFO  NewAndUsedCarSearchPage :69 - select price ' $50,000 ' <br>
+2022-05-18 21:05:471 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:333 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 12 Used Volkswagen Tiguans for Sale under $50,000 in ACT
+2022-05-18 21:05:912 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:805 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (e99ad5bec8fad6d943a3f01670e9a8b4)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:205 INFO  HomePage :43 - clicking on used link [[ChromeDriver: chrome on WINDOWS (e99ad5bec8fad6d943a3f01670e9a8b4)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 21:05:247 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 21:05:264 INFO  NewAndUsedCarSearchPage :54 - select make ' Mercedes-Benz ' <br>
+2022-05-18 21:05:505 INFO  NewAndUsedCarSearchPage :59 -  select model ' A-Class ' <br>
+2022-05-18 21:05:875 INFO  NewAndUsedCarSearchPage :64 - select location ' NSW - All ' <br>
+2022-05-18 21:05:153 INFO  NewAndUsedCarSearchPage :69 - select price ' $100,000 ' <br>
+2022-05-18 21:05:449 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:216 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 72 Used Mercedes-Benz A-Class for Sale under $100,000 in NSW
+2022-05-18 21:05:790 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:850 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 21:05:499 INFO  HomePage :33 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (ff154647358dfdf43f6411063c48c1d2)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 21:05:705 INFO  HomePage :43 - clicking on used link [[ChromeDriver: chrome on WINDOWS (ff154647358dfdf43f6411063c48c1d2)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 21:05:629 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 21:05:646 INFO  NewAndUsedCarSearchPage :54 - select make ' Kia ' <br>
+2022-05-18 21:05:816 INFO  NewAndUsedCarSearchPage :59 -  select model ' Any Model ' <br>
+2022-05-18 21:05:990 INFO  NewAndUsedCarSearchPage :64 - select location ' ACT - All ' <br>
+2022-05-18 21:05:254 INFO  NewAndUsedCarSearchPage :69 - select price ' $100,000 ' <br>
+2022-05-18 21:05:622 INFO  NewAndUsedCarSearchPage :74 -  clicking on find my next car tab 
+2022-05-18 21:05:773 INFO  NewAndUsedCarSearchPage :79 -  get search text from product 41 Used Kias for Sale under $100,000 in ACT
+2022-05-18 22:05:183 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:31 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (e5d11dc301e850f5a6ab7034cdcd8d8e)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:260 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (e5d11dc301e850f5a6ab7034cdcd8d8e)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:544 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:222 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:953 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (1a6e3aef46aa7bcecb9d602fd827bc9a)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:583 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (1a6e3aef46aa7bcecb9d602fd827bc9a)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:349 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:610 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (6583d499de86eb1d3ec86ab3fd35331f)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:965 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (6583d499de86eb1d3ec86ab3fd35331f)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:30 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:289 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:127 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:579 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (f4cd0a28f2a769e9ca14ab1a4c80a9b6)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:77 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (f4cd0a28f2a769e9ca14ab1a4c80a9b6)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:737 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 22:05:766 INFO  NewAndUsedCarSearchPage :55 - select make ' Land Rover ' <br>
+2022-05-18 22:05:55 INFO  NewAndUsedCarSearchPage :60 -  select model ' Range Rover Sport ' <br>
+2022-05-18 22:05:364 INFO  NewAndUsedCarSearchPage :65 - select location ' QLD - Brisbane ' <br>
+2022-05-18 22:05:607 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-18 22:05:990 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:579 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 11 Land Rover Range Rover Sports for Sale under $100,000 in Brisbane, QLD
+2022-05-18 22:05:198 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:426 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (335d5de080e048ce9b4cd6967f0776e3)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:72 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (335d5de080e048ce9b4cd6967f0776e3)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:253 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 22:05:279 INFO  NewAndUsedCarSearchPage :55 - select make ' Kia ' <br>
+2022-05-18 22:05:478 INFO  NewAndUsedCarSearchPage :60 -  select model ' Picanto ' <br>
+2022-05-18 22:05:794 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - Sydney ' <br>
+2022-05-18 22:05:51 INFO  NewAndUsedCarSearchPage :70 - select price ' $90,000 ' <br>
+2022-05-18 22:05:337 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:596 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 12 Kia Picantos for Sale under $90,000 in Sydney, NSW
+2022-05-18 22:05:580 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:211 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:21 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (0226147b8551d832a31ce0196fd008d2)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:340 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (0226147b8551d832a31ce0196fd008d2)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:744 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:401 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (d501f64377544b4abdb272df7382b66b)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:125 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (d501f64377544b4abdb272df7382b66b)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:953 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 22:05:977 INFO  NewAndUsedCarSearchPage :55 - select make ' Hyundai ' <br>
+2022-05-18 22:05:265 INFO  NewAndUsedCarSearchPage :60 -  select model ' Elantra ' <br>
+2022-05-18 22:05:566 INFO  NewAndUsedCarSearchPage :65 - select location ' NT - North ' <br>
+2022-05-18 22:05:819 INFO  NewAndUsedCarSearchPage :70 - select price ' $80,000 ' <br>
+2022-05-18 22:05:183 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:45 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:51 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:798 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:988 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (586a1ab38609e7c8336da512c0637f41)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:531 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (586a1ab38609e7c8336da512c0637f41)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:547 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:566 INFO  NewAndUsedCarSearchPage :55 - select make ' BMW ' <br>
+2022-05-18 22:05:809 INFO  NewAndUsedCarSearchPage :60 -  select model ' Any Model ' <br>
+2022-05-18 22:05:71 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - All ' <br>
+2022-05-18 22:05:267 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-18 22:05:563 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:896 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 499 Used BMWs for Sale under $100,000 in NSW
+2022-05-18 22:05:358 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:965 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (8f60b90efc55588a1b980a5f2670d421)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:364 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (8f60b90efc55588a1b980a5f2670d421)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:48 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:91 INFO  NewAndUsedCarSearchPage :55 - select make ' Volkswagen ' <br>
+2022-05-18 22:05:491 INFO  NewAndUsedCarSearchPage :60 -  select model ' Tiguan ' <br>
+2022-05-18 22:05:807 INFO  NewAndUsedCarSearchPage :65 - select location ' ACT - All ' <br>
+2022-05-18 22:05:26 INFO  NewAndUsedCarSearchPage :70 - select price ' $50,000 ' <br>
+2022-05-18 22:05:307 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:160 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 12 Used Volkswagen Tiguans for Sale under $50,000 in ACT
+2022-05-18 22:05:833 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:824 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (93a4dcde93e6261ccc9a406f17bc77f8)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:330 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (93a4dcde93e6261ccc9a406f17bc77f8)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:470 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:532 INFO  NewAndUsedCarSearchPage :55 - select make ' Mercedes-Benz ' <br>
+2022-05-18 22:05:785 INFO  NewAndUsedCarSearchPage :60 -  select model ' A-Class ' <br>
+2022-05-18 22:05:191 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - All ' <br>
+2022-05-18 22:05:472 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-18 22:05:840 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:631 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 72 Used Mercedes-Benz A-Class for Sale under $100,000 in NSW
+2022-05-18 22:05:954 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:583 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:114 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (792665eb3fa6801cf9a40f5f2d3251e9)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:389 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (792665eb3fa6801cf9a40f5f2d3251e9)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:38 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:56 INFO  NewAndUsedCarSearchPage :55 - select make ' Kia ' <br>
+2022-05-18 22:05:264 INFO  NewAndUsedCarSearchPage :60 -  select model ' Any Model ' <br>
+2022-05-18 22:05:481 INFO  NewAndUsedCarSearchPage :65 - select location ' ACT - All ' <br>
+2022-05-18 22:05:649 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-18 22:05:961 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:669 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 41 Used Kias for Sale under $100,000 in ACT
+2022-05-18 22:05:906 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:849 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (1b216411debbb02b75228262c5c63243)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:314 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (1b216411debbb02b75228262c5c63243)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:999 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:723 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (0935d1ca9b1e73e13649805657418adb)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:559 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (0935d1ca9b1e73e13649805657418adb)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:874 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-18 22:05:907 INFO  NewAndUsedCarSearchPage :55 - select make ' Kia ' <br>
+2022-05-18 22:05:195 INFO  NewAndUsedCarSearchPage :60 -  select model ' Picanto ' <br>
+2022-05-18 22:05:516 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - Sydney ' <br>
+2022-05-18 22:05:784 INFO  NewAndUsedCarSearchPage :70 - select price ' $90,000 ' <br>
+2022-05-18 22:05:133 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:97 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 12 Kia Picantos for Sale under $90,000 in Sydney, NSW
+2022-05-18 22:05:760 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:735 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (da19838112a55cf3499965b9fc72f6b6)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:43 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (da19838112a55cf3499965b9fc72f6b6)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:666 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:994 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:666 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (030de10dc99d2258c08f817dc5578ce8)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:977 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (030de10dc99d2258c08f817dc5578ce8)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:517 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:522 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (7755cba1fbe82a1b5aecb5c36371a831)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:890 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (7755cba1fbe82a1b5aecb5c36371a831)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 22:05:316 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:278 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (d95017111179cf1a3bd4946d4bf9d356)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:570 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (d95017111179cf1a3bd4946d4bf9d356)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:819 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:838 INFO  NewAndUsedCarSearchPage :55 - select make ' Jeep ' <br>
+2022-05-18 22:05:35 INFO  NewAndUsedCarSearchPage :60 -  select model ' Compass ' <br>
+2022-05-18 22:05:363 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - New England ' <br>
+2022-05-18 22:05:578 INFO  NewAndUsedCarSearchPage :70 - select price ' $80,000 ' <br>
+2022-05-18 22:05:817 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:132 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:773 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (6150033159c34f8558517debebdee53d)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:01 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (6150033159c34f8558517debebdee53d)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:211 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:233 INFO  NewAndUsedCarSearchPage :55 - select make ' BMW ' <br>
+2022-05-18 22:05:476 INFO  NewAndUsedCarSearchPage :60 -  select model ' Any Model ' <br>
+2022-05-18 22:05:761 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - All ' <br>
+2022-05-18 22:05:926 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-18 22:05:154 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:385 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 499 Used BMWs for Sale under $100,000 in NSW
+2022-05-18 22:05:279 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:90 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (919a9ee6ce0fc4f555b30a833a6b41c1)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:911 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (919a9ee6ce0fc4f555b30a833a6b41c1)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:921 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:36 INFO  NewAndUsedCarSearchPage :55 - select make ' Volkswagen ' <br>
+2022-05-18 22:05:308 INFO  NewAndUsedCarSearchPage :60 -  select model ' Tiguan ' <br>
+2022-05-18 22:05:574 INFO  NewAndUsedCarSearchPage :65 - select location ' ACT - All ' <br>
+2022-05-18 22:05:809 INFO  NewAndUsedCarSearchPage :70 - select price ' $50,000 ' <br>
+2022-05-18 22:05:162 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:970 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 12 Used Volkswagen Tiguans for Sale under $50,000 in ACT
+2022-05-18 22:05:626 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:821 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (37ea9462c8e91e5fccb6bc6872f1d091)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:96 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (37ea9462c8e91e5fccb6bc6872f1d091)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:819 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:837 INFO  NewAndUsedCarSearchPage :55 - select make ' Mercedes-Benz ' <br>
+2022-05-18 22:05:123 INFO  NewAndUsedCarSearchPage :60 -  select model ' A-Class ' <br>
+2022-05-18 22:05:610 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - All ' <br>
+2022-05-18 22:05:927 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-18 22:05:334 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:765 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 72 Used Mercedes-Benz A-Class for Sale under $100,000 in NSW
+2022-05-18 22:05:257 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:749 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (81049e85a4a6e6fdb41cef79a3aebc11)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:97 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (81049e85a4a6e6fdb41cef79a3aebc11)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:436 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:501 INFO  NewAndUsedCarSearchPage :55 - select make ' Toyota ' <br>
+2022-05-18 22:05:722 INFO  NewAndUsedCarSearchPage :60 -  select model ' 4runner ' <br>
+2022-05-18 22:05:86 INFO  NewAndUsedCarSearchPage :65 - select location ' QLD - All ' <br>
+2022-05-18 22:05:345 INFO  NewAndUsedCarSearchPage :70 - select price ' $70,000 ' <br>
+2022-05-18 22:05:641 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:562 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 1 Used Toyota 4RUNNER for Sale under $70,000 in QLD
+2022-05-18 22:05:66 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 22:05:217 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (9220cba38c4a55dfb5b7cdf2bdbd490d)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 22:05:66 INFO  HomePage :44 - clicking on used link [[ChromeDriver: chrome on WINDOWS (9220cba38c4a55dfb5b7cdf2bdbd490d)] -> xpath: //a[normalize-space()='Used']]
+2022-05-18 22:05:960 INFO  UsedCarsForSalePage :23 - get title text of used cars for sale page Used Cars For Sale
+2022-05-18 22:05:984 INFO  NewAndUsedCarSearchPage :55 - select make ' Kia ' <br>
+2022-05-18 22:05:177 INFO  NewAndUsedCarSearchPage :60 -  select model ' Any Model ' <br>
+2022-05-18 22:05:345 INFO  NewAndUsedCarSearchPage :65 - select location ' ACT - All ' <br>
+2022-05-18 22:05:541 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-18 22:05:822 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-18 22:05:586 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 41 Used Kias for Sale under $100,000 in ACT
+2022-05-20 13:05:831 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:380 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:647 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (79375d1973a2c53b6dfbb2c1a486fc0d)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:947 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (79375d1973a2c53b6dfbb2c1a486fc0d)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:985 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:19 INFO  NewAndUsedCarSearchPage :55 - select make ' Kia ' <br>
+2022-05-20 13:05:202 INFO  NewAndUsedCarSearchPage :60 -  select model ' Picanto ' <br>
+2022-05-20 13:05:308 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - Sydney ' <br>
+2022-05-20 13:05:401 INFO  NewAndUsedCarSearchPage :70 - select price ' $90,000 ' <br>
+2022-05-20 13:05:532 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:471 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 11 Kia Picantos for Sale under $90,000 in Sydney, NSW
+2022-05-20 13:05:311 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:858 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (a4cbd898b95f9f396a8a6b2385fab749)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:61 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (a4cbd898b95f9f396a8a6b2385fab749)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:724 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:902 INFO  NewAndUsedCarSearchPage :55 - select make ' Mercedes-Benz ' <br>
+2022-05-20 13:05:02 INFO  NewAndUsedCarSearchPage :60 -  select model ' A-Class ' <br>
+2022-05-20 13:05:135 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - All ' <br>
+2022-05-20 13:05:223 INFO  NewAndUsedCarSearchPage :70 - select price ' $150,000 ' <br>
+2022-05-20 13:05:334 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:982 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 92 Mercedes-Benz A-Class for Sale under $150,000 in NSW
+2022-05-20 13:05:841 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:453 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (cabd5ae5d7ce32057c52108888098fa5)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:640 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (cabd5ae5d7ce32057c52108888098fa5)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:879 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:888 INFO  NewAndUsedCarSearchPage :55 - select make ' Ford ' <br>
+2022-05-20 13:05:963 INFO  NewAndUsedCarSearchPage :60 -  select model ' Focus ' <br>
+2022-05-20 13:05:91 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - New England ' <br>
+2022-05-20 13:05:180 INFO  NewAndUsedCarSearchPage :70 - select price ' $70,000 ' <br>
+2022-05-20 13:05:295 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:41 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:801 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (0ed6b5a0f66b64ba39b5c636fc0ec583)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:271 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (0ed6b5a0f66b64ba39b5c636fc0ec583)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:283 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:295 INFO  NewAndUsedCarSearchPage :55 - select make ' Hyundai ' <br>
+2022-05-20 13:05:401 INFO  NewAndUsedCarSearchPage :60 -  select model ' Elantra ' <br>
+2022-05-20 13:05:521 INFO  NewAndUsedCarSearchPage :65 - select location ' NT - North ' <br>
+2022-05-20 13:05:634 INFO  NewAndUsedCarSearchPage :70 - select price ' $80,000 ' <br>
+2022-05-20 13:05:788 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:403 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:325 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (ee71db0c783c24d1d5730d34a23bb000)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:563 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (ee71db0c783c24d1d5730d34a23bb000)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:174 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:193 INFO  NewAndUsedCarSearchPage :55 - select make ' Honda ' <br>
+2022-05-20 13:05:309 INFO  NewAndUsedCarSearchPage :60 -  select model ' City ' <br>
+2022-05-20 13:05:424 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - Central Coast ' <br>
+2022-05-20 13:05:522 INFO  NewAndUsedCarSearchPage :70 - select price ' $90,000 ' <br>
+2022-05-20 13:05:665 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:882 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 1 Honda City for Sale under $90,000 in Central Coast, NSW
+2022-05-20 13:05:67 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:920 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:434 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (976121d6d4e690635f94d82fe199d7b7)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:620 INFO  HomePage :41 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (976121d6d4e690635f94d82fe199d7b7)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:882 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:899 INFO  NewAndUsedCarSearchPage :55 - select make ' Kia ' <br>
+2022-05-20 13:05:993 INFO  NewAndUsedCarSearchPage :60 -  select model ' Picanto ' <br>
+2022-05-20 13:05:109 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - Sydney ' <br>
+2022-05-20 13:05:193 INFO  NewAndUsedCarSearchPage :70 - select price ' $90,000 ' <br>
+2022-05-20 13:05:337 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:15 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 11 Kia Picantos for Sale under $90,000 in Sydney, NSW
+2022-05-20 13:05:872 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:914 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:224 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (38b6f981c36cce5f2e7300200c7b54d1)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:395 INFO  HomePage :41 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (38b6f981c36cce5f2e7300200c7b54d1)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:789 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:809 INFO  NewAndUsedCarSearchPage :55 - select make ' Land Rover ' <br>
+2022-05-20 13:05:907 INFO  NewAndUsedCarSearchPage :60 -  select model ' Range Rover Sport ' <br>
+2022-05-20 13:05:71 INFO  NewAndUsedCarSearchPage :65 - select location ' QLD - Brisbane ' <br>
+2022-05-20 13:05:183 INFO  NewAndUsedCarSearchPage :70 - select price ' $100,000 ' <br>
+2022-05-20 13:05:316 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:630 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 12 Land Rover Range Rover Sports for Sale under $100,000 in Brisbane, QLD
+2022-05-20 13:05:486 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:739 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (56444d3b0e16634d290a95212baa073b)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:896 INFO  HomePage :41 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (56444d3b0e16634d290a95212baa073b)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:636 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:650 INFO  NewAndUsedCarSearchPage :55 - select make ' Kia ' <br>
+2022-05-20 13:05:731 INFO  NewAndUsedCarSearchPage :60 -  select model ' Picanto ' <br>
+2022-05-20 13:05:818 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - Sydney ' <br>
+2022-05-20 13:05:904 INFO  NewAndUsedCarSearchPage :70 - select price ' $90,000 ' <br>
+2022-05-20 13:05:80 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:899 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:182 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (6c80d1d91498fb2e8370226e9817b8db)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:400 INFO  HomePage :41 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (6c80d1d91498fb2e8370226e9817b8db)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:178 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:209 INFO  NewAndUsedCarSearchPage :55 - select make ' Mercedes-Benz ' <br>
+2022-05-20 13:05:334 INFO  NewAndUsedCarSearchPage :60 -  select model ' A-Class ' <br>
+2022-05-20 13:05:516 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - All ' <br>
+2022-05-20 13:05:622 INFO  NewAndUsedCarSearchPage :70 - select price ' $150,000 ' <br>
+2022-05-20 13:05:771 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:954 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 92 Mercedes-Benz A-Class for Sale under $150,000 in NSW
+2022-05-20 13:05:791 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:320 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:828 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 13:05:145 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (784940f2e9cee8562ec3b79dc1b80f93)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 13:05:310 INFO  HomePage :41 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (784940f2e9cee8562ec3b79dc1b80f93)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 13:05:694 INFO  NewAndUsedCarSearchPage :50 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 13:05:709 INFO  NewAndUsedCarSearchPage :55 - select make ' Honda ' <br>
+2022-05-20 13:05:788 INFO  NewAndUsedCarSearchPage :60 -  select model ' City ' <br>
+2022-05-20 13:05:888 INFO  NewAndUsedCarSearchPage :65 - select location ' NSW - Central Coast ' <br>
+2022-05-20 13:05:978 INFO  NewAndUsedCarSearchPage :70 - select price ' $90,000 ' <br>
+2022-05-20 13:05:87 INFO  NewAndUsedCarSearchPage :75 -  clicking on find my next car tab 
+2022-05-20 13:05:40 INFO  NewAndUsedCarSearchPage :81 -  get search text from product 1 Honda City for Sale under $90,000 in Central Coast, NSW
+2022-05-20 14:05:528 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:150 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (f8f8a3fbcd565d91c119fe45eda5f46b)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:344 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (f8f8a3fbcd565d91c119fe45eda5f46b)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:156 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:173 INFO  NewAndUsedCarSearchPage :56 - select make ' Land Rover ' <br>
+2022-05-20 14:05:257 INFO  NewAndUsedCarSearchPage :61 -  select model ' Range Rover Sport ' <br>
+2022-05-20 14:05:358 INFO  NewAndUsedCarSearchPage :66 - select location ' QLD - Brisbane ' <br>
+2022-05-20 14:05:468 INFO  NewAndUsedCarSearchPage :71 - select price ' $100,000 ' <br>
+2022-05-20 14:05:582 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:980 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 12 Land Rover Range Rover Sports for Sale under $100,000 in Brisbane, QLD
+2022-05-20 14:05:846 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:216 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (2c5445ec5be41f3a93b34320c7ee8ac1)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:515 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (2c5445ec5be41f3a93b34320c7ee8ac1)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:510 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:519 INFO  NewAndUsedCarSearchPage :56 - select make ' Kia ' <br>
+2022-05-20 14:05:601 INFO  NewAndUsedCarSearchPage :61 -  select model ' Picanto ' <br>
+2022-05-20 14:05:731 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - Sydney ' <br>
+2022-05-20 14:05:841 INFO  NewAndUsedCarSearchPage :71 - select price ' $90,000 ' <br>
+2022-05-20 14:05:954 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:873 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:96 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (8c6f388f33ca3341e4951803d37046bc)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:306 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (8c6f388f33ca3341e4951803d37046bc)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:54 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:65 INFO  NewAndUsedCarSearchPage :56 - select make ' Mercedes-Benz ' <br>
+2022-05-20 14:05:183 INFO  NewAndUsedCarSearchPage :61 -  select model ' A-Class ' <br>
+2022-05-20 14:05:275 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - All ' <br>
+2022-05-20 14:05:376 INFO  NewAndUsedCarSearchPage :71 - select price ' $150,000 ' <br>
+2022-05-20 14:05:487 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:247 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 92 Mercedes-Benz A-Class for Sale under $150,000 in NSW
+2022-05-20 14:05:65 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:490 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (c559de95afc34d49dace661305573ee2)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:675 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (c559de95afc34d49dace661305573ee2)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:616 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:424 INFO  NewAndUsedCarSearchPage :56 - select make ' Ford ' <br>
+2022-05-20 14:05:598 INFO  NewAndUsedCarSearchPage :61 -  select model ' Focus ' <br>
+2022-05-20 14:05:768 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - New England ' <br>
+2022-05-20 14:05:874 INFO  NewAndUsedCarSearchPage :71 - select price ' $70,000 ' <br>
+2022-05-20 14:05:979 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:11 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 26 Ford Focus for Sale under $70,000 in New England, NSW
+2022-05-20 14:05:857 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:919 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (8ebbfd45737c9d80718bc10c81583461)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:96 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (8ebbfd45737c9d80718bc10c81583461)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:979 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:990 INFO  NewAndUsedCarSearchPage :56 - select make ' Hyundai ' <br>
+2022-05-20 14:05:63 INFO  NewAndUsedCarSearchPage :61 -  select model ' Elantra ' <br>
+2022-05-20 14:05:162 INFO  NewAndUsedCarSearchPage :66 - select location ' NT - North ' <br>
+2022-05-20 14:05:255 INFO  NewAndUsedCarSearchPage :71 - select price ' $80,000 ' <br>
+2022-05-20 14:05:365 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:232 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 1 Hyundai Elantra for Sale under $80,000 in North, NT
+2022-05-20 14:05:53 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:217 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (af51ad9848b131d6dd8ce6879c6467e0)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:382 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (af51ad9848b131d6dd8ce6879c6467e0)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:622 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:459 INFO  NewAndUsedCarSearchPage :56 - select make ' Honda ' <br>
+2022-05-20 14:05:631 INFO  NewAndUsedCarSearchPage :61 -  select model ' City ' <br>
+2022-05-20 14:05:730 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - Central Coast ' <br>
+2022-05-20 14:05:809 INFO  NewAndUsedCarSearchPage :71 - select price ' $90,000 ' <br>
+2022-05-20 14:05:943 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:944 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 1 Honda City for Sale under $90,000 in Central Coast, NSW
+2022-05-20 14:05:787 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:132 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:327 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (426350035f588f881637cc6166f5fd18)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:494 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (426350035f588f881637cc6166f5fd18)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:296 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:935 INFO  NewAndUsedCarSearchPage :56 - select make ' Kia ' <br>
+2022-05-20 14:05:82 INFO  NewAndUsedCarSearchPage :61 -  select model ' Picanto ' <br>
+2022-05-20 14:05:183 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - Sydney ' <br>
+2022-05-20 14:05:288 INFO  NewAndUsedCarSearchPage :71 - select price ' $90,000 ' <br>
+2022-05-20 14:05:402 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:706 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 11 Kia Picantos for Sale under $90,000 in Sydney, NSW
+2022-05-20 14:05:475 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:671 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (5d6aa43e95c64a7e4cfa6ecdf1f21c04)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:831 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (5d6aa43e95c64a7e4cfa6ecdf1f21c04)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:751 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:822 INFO  NewAndUsedCarSearchPage :56 - select make ' Mercedes-Benz ' <br>
+2022-05-20 14:05:931 INFO  NewAndUsedCarSearchPage :61 -  select model ' A-Class ' <br>
+2022-05-20 14:05:86 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - All ' <br>
+2022-05-20 14:05:179 INFO  NewAndUsedCarSearchPage :71 - select price ' $150,000 ' <br>
+2022-05-20 14:05:298 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:287 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 92 Mercedes-Benz A-Class for Sale under $150,000 in NSW
+2022-05-20 14:05:98 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:275 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (876d70dbdc11d8639349746d6b3d2657)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:458 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (876d70dbdc11d8639349746d6b3d2657)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:396 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:411 INFO  NewAndUsedCarSearchPage :56 - select make ' Ford ' <br>
+2022-05-20 14:05:490 INFO  NewAndUsedCarSearchPage :61 -  select model ' Focus ' <br>
+2022-05-20 14:05:593 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - New England ' <br>
+2022-05-20 14:05:684 INFO  NewAndUsedCarSearchPage :71 - select price ' $70,000 ' <br>
+2022-05-20 14:05:795 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:65 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 26 Ford Focus for Sale under $70,000 in New England, NSW
+2022-05-20 14:05:888 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:49 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (49808a8b323319a7ee4e06528086e481)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:215 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (49808a8b323319a7ee4e06528086e481)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:169 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:289 INFO  NewAndUsedCarSearchPage :56 - select make ' Hyundai ' <br>
+2022-05-20 14:05:623 INFO  NewAndUsedCarSearchPage :61 -  select model ' Elantra ' <br>
+2022-05-20 14:05:708 INFO  NewAndUsedCarSearchPage :66 - select location ' NT - North ' <br>
+2022-05-20 14:05:790 INFO  NewAndUsedCarSearchPage :71 - select price ' $80,000 ' <br>
+2022-05-20 14:05:894 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:632 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 1 Hyundai Elantra for Sale under $80,000 in North, NT
+2022-05-20 14:05:488 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 14:05:959 INFO  HomePage :35 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (43b5a1d7a7912706d0e4f0ca5e4870e6)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-20 14:05:104 INFO  HomePage :40 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (43b5a1d7a7912706d0e4f0ca5e4870e6)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 14:05:24 INFO  NewAndUsedCarSearchPage :51 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-20 14:05:100 INFO  NewAndUsedCarSearchPage :56 - select make ' Honda ' <br>
+2022-05-20 14:05:203 INFO  NewAndUsedCarSearchPage :61 -  select model ' City ' <br>
+2022-05-20 14:05:367 INFO  NewAndUsedCarSearchPage :66 - select location ' NSW - Central Coast ' <br>
+2022-05-20 14:05:475 INFO  NewAndUsedCarSearchPage :71 - select price ' $90,000 ' <br>
+2022-05-20 14:05:607 INFO  NewAndUsedCarSearchPage :76 -  clicking on find my next car tab 
+2022-05-20 14:05:723 INFO  NewAndUsedCarSearchPage :82 -  get search text from product 1 Honda City for Sale under $90,000 in Central Coast, NSW
